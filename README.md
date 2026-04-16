@@ -28,7 +28,7 @@ Install dependencies and run:
 
 ```bash
 pip install -r requirements.txt
-python bot.py
+python startbot.py
 ```
 
 ---
